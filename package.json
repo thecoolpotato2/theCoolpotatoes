@@ -1,0 +1,26 @@
+{
+  "name": "thecoolpotatoes",
+  "version": "1.0.0",
+  "description": "This is the coolpotatoes package",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecoolpotato2/theCoolpotatoes.git"
+  },
+  "keywords": [
+    "hygge",
+    "repository"
+  ],
+  "author": "theCoolpotato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecoolpotato2/theCoolpotatoes/issues"
+  },
+  "homepage": "https://github.com/thecoolpotato2/theCoolpotatoes#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
